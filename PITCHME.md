@@ -43,5 +43,6 @@
 - 敵キャラがただの球
 - Playerキャラが動かない
 - コードが穴だらけ
+- データ管理
 ---
 Pitch [URL]<https://gitpitch.com/175b044kataoka/Avoidance>
