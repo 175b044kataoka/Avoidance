@@ -39,8 +39,9 @@
 ---
 
 # 反省点
-- 背景が無い
+- 画が微妙
 - 敵キャラがただの球
 - Playerキャラが動かない
+- コードが穴だらけ
 ---
 Pitch [URL]<https://gitpitch.com/175b044kataoka/Avoidance>
