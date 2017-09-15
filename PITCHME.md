@@ -1,6 +1,7 @@
 # タイトル
 
 ## Avoidance
+### 製作期間 4日
 ---
 
 # ゲーム概要
@@ -16,6 +17,7 @@
 ---
 
 # 参考資料
+- yoketoru
 - カメラをPlayerに追従させる<http://qiita.com/valbeat/items/bab5cb649fe0cf6756d4>
 - シーンの切り替え<http://freesworder.net/unity-scene-change/>
 ---
@@ -29,6 +31,11 @@
 # 改造箇所
 - 敵が右から左へ流れる動き
 - Playerキャラの操作
+---
+
+# 苦労した個所
+- シーンの切り替え、当たり判定
+- 仮置きから切り替えたときに動きが変わったところ
 ---
 
 # 反省点
