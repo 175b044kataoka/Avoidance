@@ -23,7 +23,7 @@
 ---
 
 # 使用素材
-- フリーBGM 「Broadcast」[d-elf.com]<https://www.d-elf.com/archives/6762.html>
+- フリーBGM 「Broadcast」[d-elf.com](https://www.d-elf.com/archives/6762.html)
 - Asset Butterfly (Animated)
 - Asset Toon Forest free set
 ---
@@ -45,4 +45,4 @@
 - コードが穴だらけ
 - データ管理
 ---
-Pitch [URL]<https://gitpitch.com/175b044kataoka/Avoidance>
+Pitch [URL](https://gitpitch.com/175b044kataoka/Avoidance)
